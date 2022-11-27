@@ -13,4 +13,4 @@ PAC2_Creació de 3 visualitzacions (Heatmap, Voronoy diagram, Tile grid Map)
 
 ## Tile grid Map 
 - Visualització realitzada en R
-- Base de dades provinent del govern d'Espanya on es mostra la mitjana de salaris d'Andalucia per comunitat Comunitat Auntònoma.
+- Base de dades provinent del govern d'Espanya on es mostra la mitjana de salaris d'Andalucia per provincia.
